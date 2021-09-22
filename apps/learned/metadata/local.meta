@@ -1,0 +1,54 @@
+[props/first_install-too_small]
+owner = nobody
+version = 8.0.3
+modtime = 1631839657.689996000
+
+[props/dfm_stderr-too_small]
+owner = nobody
+version = 8.0.3
+modtime = 1631839657.806617000
+
+[props/dfm_stdout-too_small]
+owner = nobody
+version = 8.0.3
+modtime = 1631839657.858479000
+
+[props/export_metrics-too_small]
+owner = nobody
+version = 8.0.3
+modtime = 1631839677.612437000
+
+[props/splunk_instrumentation-too_small]
+owner = nobody
+version = 8.0.3
+modtime = 1631839745.793973000
+
+[props/splunk_archiver-too_small]
+owner = nobody
+version = 8.0.3
+modtime = 1631841420.864427000
+
+[props/sahr_time-too_small]
+owner = admin
+version = 8.0.3
+modtime = 1631844488.460194000
+
+[props/saas_app_aws-too_small]
+owner = nobody
+version = 8.0.3
+modtime = 1631912400.876614000
+
+[props/splunk_archiver-2]
+owner = nobody
+version = 8.0.3
+modtime = 1632271517.374828000
+
+[sourcetypes/%2Fopt%2Fsplunk%2Fvar%2Flog%2Fsplunk%2Fsplunk_archiver.log_Wed_Sep_22_00%3A45%3A17_2021_575327431]
+owner = nobody
+version = 8.0.3
+modtime = 1632271517.593009000
+
+[props/09_24_2021-too_small]
+owner = nobody
+version = 8.0.3
+modtime = 1632273815.510712000
