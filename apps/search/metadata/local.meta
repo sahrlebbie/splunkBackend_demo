@@ -1,0 +1,14 @@
+[inputs/script%3A%2F%2F%24SPLUNK_HOME%2Fetc%2Fapps%2Fsahr_scripts%2Fbin%2Fsahr_random.sh]
+owner = admin
+version = 8.0.3
+modtime = 1631847585.224848000
+
+[indexes/sahr_indexing]
+owner = admin
+version = 8.0.3
+modtime = 1632272081.685053000
+
+[inputs/monitor%3A%2F%2F%2Fopt%2Flinux%2Fsahr_server%2F09_24_2021.log]
+owner = admin
+version = 8.0.3
+modtime = 1632273815.475521000

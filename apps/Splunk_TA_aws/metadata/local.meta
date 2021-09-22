@@ -1,0 +1,68 @@
+[app/install/install_source_checksum]
+version = 8.0.3
+modtime = 1631852399.871932000
+
+[log_info/aws_billing]
+version = 8.0.3
+modtime = 1631853157.897054000
+
+[aws_settings/aws_billing_cur]
+version = 8.0.3
+modtime = 1631853158.886324000
+
+[aws_cloudtrail/logging]
+version = 8.0.3
+modtime = 1631853159.866396000
+
+[aws_settings/aws_cloudwatch]
+version = 8.0.3
+modtime = 1631853160.831267000
+
+[aws_cloudwatch_logs/logging]
+version = 8.0.3
+modtime = 1631853161.800088000
+
+[log_info/aws_config]
+version = 8.0.3
+modtime = 1631853162.770085000
+
+[aws_config_rule/logging]
+version = 8.0.3
+modtime = 1631853163.746408000
+
+[aws_description/logging]
+version = 8.0.3
+modtime = 1631853164.716291000
+
+[aws_inspector/logging]
+version = 8.0.3
+modtime = 1631853165.688580000
+
+[aws_kinesis/logging]
+version = 8.0.3
+modtime = 1631853166.662375000
+
+[aws_metadata/logging]
+version = 8.0.3
+modtime = 1631853167.634775000
+
+[log_info/aws_s3]
+version = 8.0.3
+modtime = 1631853168.596450000
+
+[aws_settings/splunk_ta_aws_logs]
+version = 8.0.3
+modtime = 1631853169.572902000
+
+[aws_settings/aws_sqs_based_s3]
+version = 8.0.3
+modtime = 1631853170.550204000
+
+[aws_sqs/logging]
+version = 8.0.3
+modtime = 1631853171.505690000
+
+[passwords/credential%3A_aws_proxy%3Adefault%3A]
+owner = admin
+version = 8.0.3
+modtime = 1631854393.746465000
